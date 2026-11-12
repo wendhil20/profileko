@@ -1,1 +1,15 @@
+# Environment
 .env
+
+# Dependencies
+/vendor/
+/node_modules/
+
+# Logs
+*.log
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
